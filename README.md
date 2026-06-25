@@ -2,11 +2,32 @@
 
 ## Projects
 
-- Calculator
-- Number Guessing Game
-- Python Script
-## Demo Video
+### 1. Employee Filter System
 
+Features:
+- Dynamic filtering
+- Lambda sorting
+- Statistics generation
+
+#### Screenshots
+
+![Employee Output](assets/employee-output.png)
+
+---
+
+### 2. Number Guessing Game
+
+Features:
+- Difficulty levels
+- Attempt limits
+- Hint system
+- Replay option
+
+#### Demo Video
+
+[🎥 Watch Demo](assets/guessgame-demo.mov)
+
+<<<<<<< HEAD
 [▶️ Watch the demo](assets/demo.mov)
 
 # Employee Filter System
@@ -29,3 +50,5 @@
 - Dictionaries
 - Lambda Functions
 - User Input
+=======
+>>>>>>> 4984e21 (Add guessing game and demo assetss)
